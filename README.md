@@ -15,7 +15,7 @@ Os HwID spoofers são frequentemente associados a atividades ilegais, como a ten
 É importante destacar que o uso de HwID spoofers para fins ilegais pode ser considerado uma violação dos termos de serviço de muitos produtos e serviços, e pode resultar em medidas legais ou em proibições permanentes. Portanto, é altamente desencorajado o uso desse tipo de software para atividades ilegais. Em vez disso, é aconselhável usar o computador e os serviços online de forma ética e de acordo com as regras estabelecidas pelas empresas e desenvolvedores.
 
 </details>
-<br><br><br>
+<br><br>
 
 #### Ações do Spoofer:
 > Manipule strings no console de forma prática!
