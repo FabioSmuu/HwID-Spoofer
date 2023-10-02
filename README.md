@@ -18,6 +18,7 @@ Os HwID spoofers são frequentemente associados a atividades ilegais, como a ten
 <br><br>
 
 #### Ações do Spoofer:
+> Este Spoofer foi desenvolvido em javascrip para ser usado em Node.js
 - Hardware ID Spoofer
 - Machine ID Spoofer
 - Product Serial Update
@@ -25,7 +26,6 @@ Os HwID spoofers são frequentemente associados a atividades ilegais, como a ten
 - Flush DNS
 <br><br><br>
 #### Arquivos:
-> Este Spoofer foi desenvolvido em javascrip para ser usado em Node.js
 - [core](/core.js) - Origem das classes e funções para funcionar o spoofer.
 - [example-1](/example-1.js) - Exemplo pratico da class Reg (esta class está localizada na [core.js](/core.js#L42).
 - [example-2](/example-2.js) - Exemplo resumido de importação dos registros.
