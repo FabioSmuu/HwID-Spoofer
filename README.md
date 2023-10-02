@@ -18,7 +18,6 @@ Os HwID spoofers são frequentemente associados a atividades ilegais, como a ten
 <br><br>
 
 #### Ações do Spoofer:
-> Manipule strings no console de forma prática!
 - Hardware ID Spoofer
 - Machine ID Spoofer
 - Product Serial Update
