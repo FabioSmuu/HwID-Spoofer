@@ -28,7 +28,7 @@ Os HwID spoofers são frequentemente associados a atividades ilegais, como a ten
 #### Arquivos:
 - [core](/core.js) - Origem das classes e funções para funcionar o spoofer.
 - [example-1](/example-1.js) - Exemplo pratico da class Reg (esta class está localizada na [core.js](/core.js#L42).
-- [example-2](/example-2.js) - Exemplo resumido de importação dos registros.
+- [example-2](/example-2.js) - Exemplo resumido de importação dos registros evitando memory leak.
 
 <br><br>
 **Obrigado pela sua atenção!**
