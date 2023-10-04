@@ -8,7 +8,7 @@ Este repositório tem como intuito, demonstrar como ocorre a falsificação de H
 **Oque é Hwid-Spoofer ?**
 <details><summary>Click Aqui :point_left:</summary>
   
-Um HwID Spoofer é uma ferramenta de software que é usada para alterar ou "spoof" o Hardware ID (HwID) de um computador. O Hardware ID é uma identificação única associada ao hardware de um computador, que pode incluir informações sobre a placa-mãe, placa de vídeo, disco rígido e outros componentes físicos. Essa identificação é frequentemente usada para autenticar um dispositivo em um sistema ou serviço.
+Um HwID Spoofer é uma ferramenta de software que é usada para alterar ou "spoofar" o Hardware ID (HwID) de um computador. O Hardware ID é uma identificação única associada ao hardware de um computador, que pode incluir informações sobre a placa-mãe, placa de vídeo, disco rígido e outros componentes físicos. Essa identificação é frequentemente usada para autenticar um dispositivo em um sistema ou serviço.
 
 Os HwID spoofers são frequentemente associados a atividades ilegais, como a tentativa de burlar sistemas de proteção de software ou serviços online, como jogos, programas antipirataria ou até mesmo sistemas de detecção de trapaças em jogos online. Ao alterar o HwID de um computador, os usuários mal-intencionados podem tentar evitar serem rastreados ou impedidos de acessar um serviço após terem sido banidos por atividades suspeitas.
 
@@ -18,7 +18,7 @@ Os HwID spoofers são frequentemente associados a atividades ilegais, como a ten
 <br><br>
 
 #### Ações do Spoofer:
-> Este Spoofer foi desenvolvido em javascrip para ser usado em Node.js
+> Este Spoofer foi desenvolvido em javascript para ser usado em Node.js
 - Hardware ID Spoofer
 - Machine ID Spoofer
 - Product Serial Update
